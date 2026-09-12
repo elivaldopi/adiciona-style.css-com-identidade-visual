@@ -3,16 +3,6 @@ Repo projeto integrador - UESPI
 
 # Netinho.io — Guia do Litoral do Piauí
 
-**Instituição:** Universidade Estadual do Piauí (UESPI)
-**Disciplina:** UAPITSI19 - PROJETO INTEGRADOR II
-**Docente:** [Inserir Nome do Professor]
-**Equipe:**
-- Vinicius Veras Silva
-- [Inserir Nome do Integrante 2]
-- [Inserir Nome do Integrante 3]
-
----
-
 ## 🎯 Objetivo Acadêmico
 
 Este repositório contém o código-fonte do projeto **Netinho.io**, desenvolvido como requisito avaliativo para a disciplina de Projeto Integrador II. Trata-se de um aplicativo web interativo projetado em um único arquivo HTML (Single-Page Application), atuando como um guia digital do litoral piauiense. O sistema integra o consumo de dados em tempo real e um motor de intenções local para simular um atendimento inteligente através do mascote do projeto.
