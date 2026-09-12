@@ -1,26 +1,6 @@
-# Proj-front-UI - Neto.IA
+# Proj-front-UI
 Repo projeto integrador - UESPI 
 
-Conversa com o Gemini
-Crie um readmi para github desse projeto.
-
-Prezado usuário, o seu arquivo Markdown (README) está pronto:
-
-Ícone do app MD
-README
- MD 
-O documento sumariza o projeto "Netinho.io", descrevendo suas funcionalidades principais como o guia de condições climáticas (vento, clima e maré) e a interação com o mascote Caju. Além disso, a documentação detalha a sessão de configuração das APIs (através da constante CONFIG) e reforça os avisos críticos de segurança sobre o armazenamento de chaves no backend.  
-HTML
-+ 1
-
-Com o objetivo de refinar este arquivo, o senhor gostaria de adicionar alguma seção complementar, como um guia para contribuição de desenvolvedores ou informações específicas de licenciamento do software?
-
-
-
-
-O Gemini é uma IA e pode cometer erros.
-
-Defining the Scope
 # Netinho.io — Guia do Litoral do Piauí
 
 Um aplicativo web interativo projetado em um único arquivo (Single-Page Application) para ser o seu guia definitivo do litoral piauiense. O Netinho.io oferece condições em tempo real de vento, clima e maré, além de um chatbot integrado com um mascote interativo (Caju).
